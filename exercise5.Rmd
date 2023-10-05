@@ -80,6 +80,13 @@ clutch <- select(clutch, CLUTCH.SIZE, IncDoYr, dist2bldg, dist2water)
 
 **Included here is data on the clutch sizes and Julian start date of incubation for 1,293 Red Wing Black Birds from marshes of the Hudson River Valley, NY.**
 
+![Figure 1. Red Winged Black Bird (*Agelaius phoeniceus*)](images/RWB.jpg)
+
+
+
+![Figure 1.(*Agelaius phoeniceus*)](images/RWB2.jpg)
+
+
 
 
 
